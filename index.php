@@ -1,6 +1,6 @@
 <?php
 
-$nombre = "Jorge Arguello";
+$nombre = "Jorge Jose Arguello";
 echo "<br>";
 
 echo $nombre;
